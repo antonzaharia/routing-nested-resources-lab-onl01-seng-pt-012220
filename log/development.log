@@ -729,3 +729,6 @@ Processing by ArtistsController#index as HTML
   Rendering artists/index.html.erb within layouts/application
   [1m[36mArtist Load (0.3ms)[0m  [1m[34mSELECT "artists".* FROM "artists"[0m
   Rendered artists/index.html.erb within layouts/application (12.8ms)
+Completed 200 OK in 233ms (Views: 224.0ms | ActiveRecord: 1.0ms)
+
+
